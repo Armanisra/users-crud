@@ -6,3 +6,4 @@ class Users():
     name = Column(String, nullable = False) 
     last_name = Column(String, nullable = False) 
     age = Column(Integer, nullable = False)
+#sqknjbwkjwq
